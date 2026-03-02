@@ -1,5 +1,5 @@
-Author: Sunder Raman V  
-Role: Predictive Analytics & AI Consultant (Healthcare & BFSI)
+**Author**: Sunder Raman V  
+**Role**: Predictive Analytics & AI Consultant (Healthcare & BFSI)
 
 ## 🚀 Project Overview
 
