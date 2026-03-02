@@ -1,11 +1,41 @@
 **Author**: Sunder Raman V  
 **Role**: Predictive Analytics & AI Consultant (Healthcare & BFSI)
 
-## 🚀 Project Overview
+## From Reporting to Predictive Decision System
 
-This project demonstrates how healthcare EHR data can be transformed 
-from descriptive reporting into actionable NLP-driven insights 
-to support predictive and operational decision-making.
+This project demonstrates a full-stack analytics transition:
+
+1️⃣ Data Foundation Layer
+
+Synthetic EHR dataset generated using Synthea
+
+Structured patient-level and encounter-level records
+
+Clean data ingestion and preprocessing pipeline
+
+2️⃣ Insight Extraction Layer (NLP)
+
+Clinical text processing
+
+Extraction of structured signals from unstructured data
+
+Feature engineering from narrative records
+
+3️⃣ Predictive Intelligence Layer
+
+Risk prediction model (e.g., readmission / classification model)
+
+Model evaluation metrics
+
+Feature importance interpretation
+
+4️⃣ Decision & Visualization Layer
+
+Dashboard integration
+
+Visualization of predictive scores
+
+Business interpretation of outputs
 
 ## Data Source
 
