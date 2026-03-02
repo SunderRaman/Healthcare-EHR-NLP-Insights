@@ -38,17 +38,8 @@ Visualization of predictive scores
 Business interpretation of outputs
 
 ## Architecture
-Synthea EHR Data
-        ↓
-Data Cleaning & Preprocessing
-        ↓
-NLP Feature Extraction
-        ↓
-Predictive Risk Model
-        ↓
-Dashboard Visualization
-        ↓
-Business Decision Support
+Synthea EHR Data --> Data Cleaning & Preprocessing --> NLP Feature Extraction --> Predictive Risk Model --> Dashboard Visualization
+--> Business Decision Support
 
 ## Data Source
 
